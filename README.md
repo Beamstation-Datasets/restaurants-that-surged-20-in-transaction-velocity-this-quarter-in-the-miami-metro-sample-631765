@@ -1,6 +1,6 @@
 # Restaurants That Surged 20%+ in Transaction Velocity This Quarter in the Miami Metro Area
 
-> Free BeamStation sample export with 24 rows and masked direct-contact fields.
+> Free BeamStation sample export with 40 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `631765` |
 | Location | Miami-Fort Lauderdale-West Palm Beach, FL |
 | Category | Food and Drink |
-| Full dataset size | 249 records |
-| Free sample size | 24 records (9.64%) |
-| Last export | 2026-04-28T17:02:50.973681+00:00 |
+| Full dataset size | 405 records |
+| Free sample size | 40 records (9.88%) |
+| Last export | 2026-05-06T06:30:51.735403+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurants-that-surged-20-in-transaction-velocity-this-quarter-in-the-miami-metro-sample-631765/releases/download/sample-latest/beamstation_631765_food_and_drink-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
