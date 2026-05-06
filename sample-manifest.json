@@ -1,12 +1,12 @@
 {
-  "export_job_id": "037127b4-4db2-4de2-b945-3d6ab5eff79d",
+  "export_job_id": "867014e9-257c-4df7-9a4d-8609082be5b5",
   "id_short": 631765,
-  "published_at": "2026-04-28T19:54:22Z",
+  "published_at": "2026-05-06T07:17:36Z",
   "repo_name": "restaurants-that-surged-20-in-transaction-velocity-this-quarter-in-the-miami-metro-sample-631765",
   "sample_asset_name": "beamstation_631765_food_and_drink-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/631765/beamstation_631765_food_and_drink-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
-  "sample_records": 24,
-  "sample_sha256": "c84b9c5485939a0625a85e7d9f4b0354cf541bd1f56ff23228f5ceb00d72a261",
-  "sample_size_bytes": 110398,
-  "total_records": 249
+  "sample_records": 40,
+  "sample_sha256": "4e570c7ee2fe678531f8e48f74c7e5e5709eda1738e8f98b8405c3021dd2ed93",
+  "sample_size_bytes": 174363,
+  "total_records": 405
 }
